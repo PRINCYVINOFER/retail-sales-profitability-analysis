@@ -103,7 +103,7 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
 - `superstore_cleaned.xlsx` — Cleaned dataset
 - `retail_sales_analysis.xlsx` — Excel analysis with PivotTables and charts
 - `retail_sales_dashboard.pbix` — Power BI interactive dashboard
-- `dashboard.png` — Dashboard screenshot
+- `Dashboard.png` — Dashboard screenshot
 
 ## Author
 
